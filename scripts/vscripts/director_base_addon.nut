@@ -1,0 +1,1 @@
+IncludeScript("chch_airstrike", this)
