@@ -2,15 +2,15 @@
 {
 
 	addonSteamAppID		550
-    addontitle			"random air strikes (SNAP Edition)"
+    addontitle			"random air strikes (SNAP edits)"
     addonversion	    1
-    addontagline		"oog"
-	addonauthor 		"ChimiChamo"
+    addontagline		""
+	addonauthor 		"Dr Snap + ChimiChamo"
 	addonauthorSteamID "chimichamo"
 
 	addonContent_Campaign		0
 
-	addonDescription "oog"
+	addonDescription ""
 	addonContent_Script 1
 	addonContent_Music 0
 	addonContent_Sound 0

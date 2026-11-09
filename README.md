@@ -9,9 +9,11 @@ Put "L4D2_randomairstrikes_SNAPedits" in addons folder (steamapps\common\Left 4 
 
 * Meteor
 
-* Car drop
+* Car drop ([Explosive Cars mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2931178538) recommended!)
 
 * Homing rocket (or smart rocket)
+
+* Homing rocket (It'll follow its target into buildings + off by default)
 
 * Nuke (not really a nuke but a giant blast)
 
@@ -25,14 +27,28 @@ Put "L4D2_randomairstrikes_SNAPedits" in addons folder (steamapps\common\Left 4 
 
 * Supply drop (drops a single item)
 
-* Supply drop 2 (drops multiple items)
+* Supply drop 2 (drops multiple items in a line)
 
-You can also select the airstrike behavior.
+* Supply drop 3 (for fun)
 
-* 0 = near survivors
+* Supply drop 4 (Drops a crate with a random weapon inside)
 
-* 1 = any nav mesh (unstable - may crash the game)
+* Mystery molotov
 
-* 2 = Any infected (including indoors)
+* Artillery Barrage
+
+* Artillery Barrage 2 (bigger blasts)
+
+* Boomer drop
+
+You can also select the airstrike behavior:
+
+* 1 = near survivors (adjustable with nav_percent_dist_variance)
+
+* 2 = any nav mesh
+
+* 3 = Any infected
+
+* 4 = Any infected + survivors
 
 Much of this can be changed in the settings (left4dead2/ems/random_airstrikes/settings.cfg)
